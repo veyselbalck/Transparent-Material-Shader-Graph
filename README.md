@@ -1,6 +1,3 @@
-# Transparent-Material-Shader-Graph
-This project provides a Unity Shader Graph and material for creating transparent effects on 3D objects.
-
 # Transparent Material Shader Graph
 
 This project contains a Unity Shader Graph file (`hole.shadergraph`) and a material (`transparent.mat`) for creating transparent effects on objects in Unity.
